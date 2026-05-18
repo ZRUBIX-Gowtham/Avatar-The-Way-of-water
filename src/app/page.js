@@ -19,7 +19,7 @@ export default function Home() {
           fontFamily: "system-ui, -apple-system, sans-serif",
         }}
       >
-        Welcome
+        Welcomes
       </h1>
     </main>
   );
